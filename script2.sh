@@ -1,0 +1,8 @@
+# NEED TO CALLL THE EXACT PATH OF THE FILE YOU WANT TO DISPLAY.
+# EXAMPLE: ./script2.sh ./script2.sh
+# THIS WILL SHOW YOU WHAT IS INSIDE THE FILE
+
+case $1 in
+	$1) cat $1
+	;;
+	esac

@@ -1,0 +1,17 @@
+#!/bin/bash
+echo 'MENU'
+echo '****************************************'
+echo 'Function call: script [option]'
+echo 'For example: script 1'
+echo 'Options:'
+echo '*1 - Gather system information*'
+echo '*2 - View saved information*'
+echo '*3 - Create a group*'
+echo '*4 - Create a user'
+echo '*5 - Open file for editing f.e. nano file'
+echo '*6 - Open Mozilla Firefox'
+echo '*7 - Generate a user contact card'
+echo '*8 - Search for phrases in files * additional (not obligatory)'
+echo '*9 - Show the menu'
+echo '*****************************************'
+
